@@ -1406,6 +1406,7 @@ whether the field is a primary or foreign key.
 **11.1 Physical Description of System Data**
 
 <div align="center">
+
 CLASS AND TABLE: TIF
 
 | Attribute   |   Kind   | Tam | Description          | Comp | Key |
@@ -1626,3 +1627,4 @@ Janeiro: Editora Campus, 2000.
 
 MACHADO, FELIPE NERY RODRIGUES. **Database design:** a practical view.
 São Paulo: Editora Érica. 2002.
+
