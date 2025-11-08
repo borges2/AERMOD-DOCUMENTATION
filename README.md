@@ -1,11 +1,11 @@
 <div align="center">
   
-## AERMOD Open Software Documentation
+## AERMOD-IPT Tool Documentation
 </div>
 
 **ABSTRACT**
 
-This documentation presents the development of the AERMOD Open software
+This documentation presents the development of the AERMOD-IPT tool
 to support and automate the generation of the input files of the AERMOD
 atmospheric dispersion modeling system, thus contributing to
 professionals and/or researchers in the field. The software should
@@ -19,7 +19,7 @@ Analysis.
 
 **GOALS**
 
-The main objective of the software is to automate the generation of
+The main objective of the tool is to automate the generation of
 input files for the AERMAP, AERMET and AERMOD processing steps of the
 AERMOD atmospheric dispersion modeling system. Through a user-friendly
 interface, the software allows you to manage emitting sources,
@@ -1642,3 +1642,4 @@ Janeiro: Editora Campus, 2000.
 
 MACHADO, FELIPE NERY RODRIGUES. **Database design:** a practical view.
 São Paulo: Editora Érica. 2002.
+
