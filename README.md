@@ -1,6 +1,8 @@
 <div align="center">
-  
-## AERMOD-IPT Tool Documentation
+  <h1>
+    AERMOD-IPT<br>
+    <small>Tool Documentation</small>
+  </h1>
 </div>
 
 **ABSTRACT**
